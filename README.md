@@ -4,7 +4,7 @@ Players are racing against each other to collect the most jokes and fill their j
 
 ## Youtube Video
 
-(/assets/images/youtube-laugh-kingdom.png)](https://www.youtube.com/watch?v=mLil2ExB2pU)
+<https://www.youtube.com/watch?v=mLil2ExB2pU>
 
 ## Multiplayer data tracked on the server: 
 
